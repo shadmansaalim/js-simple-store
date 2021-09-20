@@ -1,0 +1,11 @@
+body {
+  overflow-x: hidden;
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(224, 178, 178) !important;
+}
+
+
+.card img{
+  width: 200px;
+  height: 200px;
+}
